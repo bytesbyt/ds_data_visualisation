@@ -1,6 +1,6 @@
 # DS Data Visualisation 📊
 
-Welcome to **`ds_data_visualisation`**, a repository dedicated to practicing and mastering data visualization using Python's **Matplotlib** library. This repository is perfect for data enthusiasts, students, and professionals looking to improve their data visualization skills.
+Welcome to **`ds_data_visualisation`**, a repository dedicated to practicing and mastering data visualisation using Python's **Matplotlib** library. This repository is perfect for data enthusiasts, students, and professionals looking to improve their data visualisation skills.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -21,7 +21,7 @@ Welcome to **`ds_data_visualisation`**, a repository dedicated to practicing and
 
 ## Requirements
 This repository uses Python and requires the following libraries:
-- **Matplotlib**: For creating visualizations.
+- **Matplotlib**: For creating visualisations.
 - **NumPy**: For numerical computations.
 - **Pandas**: For data manipulation (optional, based on examples).
 
